@@ -4,3 +4,10 @@ OBJECT_SHARED Models/Industrial/GenericStorageTank10m.ac -89.829906 68.527271 -8
 OBJECT_SHARED Models/Industrial/GenericStorageTank15m.ac -89.829863 68.527102 -73.45 0
 OBJECT_SHARED Models/Industrial/GenericStorageTank15m.ac -89.829445 68.52742 -73.03 0
 OBJECT_SHARED Models/Industrial/GenericStorageTank15m.ac -89.829412 68.527228 -72.81 0
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -89.79220 68.53784 0.00 220.51
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -89.79129 68.53802 7.02 130.261
+OBJECT_SHARED Models/lib/prop_a.ac -89.79192 68.53842 6.98 128.046
+# END dsf2stg
